@@ -1,0 +1,83 @@
+1
+00:00:00,000 --> 00:00:06,000
+Have you ever wondered how analysts sift through vast databases to find just the right information?
+
+2
+00:00:07,000 --> 00:00:12,000
+In this video, we’ll explore the powerful logical operators in SQL or Structured Query Language.
+
+3
+00:00:13,000 --> 00:00:16,000
+Logical Operators are a part of a family of operators in SQL.
+
+4
+00:00:17,000 --> 00:00:21,000
+Today we'll learn about 3 most commonly used operators.
+
+5
+00:00:22,000 --> 00:00:23,000
+Let's start with AND.
+
+6
+00:00:24,000 --> 00:00:29,000
+When we use AND, all conditions must be true for a row to be included in the result set.
+
+7
+00:00:30,000 --> 00:00:37,000
+Imagine you need to find customers who are both Sales Rep and from the city of London—AND does the trick!
+
+8
+00:00:38,000 --> 00:00:40,000
+It retrieves only those customers who are both Sales Rep and from London.
+
+9
+00:00:41,000 --> 00:00:44,000
+Now, meet OR—it's the "either-or" operator.
+
+10
+00:00:45,000 --> 00:00:48,000
+If any condition is true, it gets a ticket to the result set.
+
+11
+00:00:49,000 --> 00:00:54,000
+Whether you're looking for customers from Seattle or those who are Owners, OR lets you do it in a single query!
+
+12
+00:00:56,000 --> 00:01:00,000
+Finally there's NOT. If a condition is false, NOT makes it true.
+
+13
+00:01:02,000 --> 00:01:08,000
+Want to find customers who aren't Sales Rep or Sales Managers? NOT is your go-to operator!
+
+14
+00:01:10,000 --> 00:01:13,000
+You can combine these operators to create powerful, complex queries.
+
+15
+00:01:14,000 --> 00:01:15,000
+Let’s recap -
+
+16
+00:01:16,000 --> 00:01:19,000
+Logical operators allow us to filter data based on specific conditions.
+
+17
+00:01:20,000 --> 00:01:23,000
+The AND operator retrieves data only if all the conditions are TRUE.
+
+18
+00:01:24,000 --> 00:01:27,000
+With the OR operator, we can retrieve data if any of the conditions are TRUE.
+
+19
+00:01:28,000 --> 00:01:33,000
+When we use NOT, we get data that is not TRUE according to a specific condition.
+
+20
+00:01:34,000 --> 00:01:44,000
+In conclusion, logical operators—AND, OR, NOT—give us precise control over the database queries, making SQL a versatile tool for data management and analysis.
+
+21
+00:01:48,000 --> 00:01:49,000
+Thanks for watching.
