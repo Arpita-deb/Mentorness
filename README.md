@@ -4,6 +4,7 @@ This repository contains all the files associated with my Internship at Mentorne
 
 ## About the Internship:
 * Organization: Mentorness
+* Role: Data Analyst Intern
 * Type: Remote
 * Duration: 26/05/2024 to 26/06/2024
 * Number of tasks: 3
